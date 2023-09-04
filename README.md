@@ -1,4 +1,4 @@
-![3267 - React: Eleve o nível da sua documentação no Storybook](thumb.png)
+![3267 - React: Versione e publique o seu Design System](thumb.png)
 
 # Alfabit
 
@@ -30,12 +30,13 @@ Se liga nessa lista de tudo que usaremos nesse curso:
 - `GitHub`
 - `Figma`
 - `Vercel`
+- `npm`
 
 E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
-Após clonar ou baixar o projeto, instale as dependências, abra na sua IDE favorita (eu recomendo o VS Code) e digite no terminal `npm run storybook` e acesse a url mostrada no terminal.
+Após clonar ou baixar o projeto, instale as dependências com o comando `npm install`, abra na sua IDE favorita (eu recomendo o VS Code) e digite no terminal `npm run storybook` e acesse a url mostrada no terminal.
 
 ## 📚 Mais informações do curso
 
